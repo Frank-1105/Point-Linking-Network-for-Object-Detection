@@ -1,7 +1,7 @@
 # Point Linking Network for Object Detection 复现代码
 ## [论文链接](https://arxiv.org/abs/1706.03646) & [reference code](https://github.com/Shallow-W/PointLN)
 - 有疑问欢迎联系 703904898@qq.com
-- if any question, welcome to cantact 703904898@qq.com
+- if any question, welcome to contact 703904898@qq.com
 ## 一些说明和注释
 ### 关于环境
 - 用autodl的话，直接部署yolov8的环境torch版本就没问题
