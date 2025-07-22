@@ -51,4 +51,4 @@
   - 验证代码那里 for 循环然后 NMS 检索太慢了 要并行化处理
   - 这点改进空间巨大
 
-# IF useful， give a STAR！
+# IF useful，PLZ give a STAR！
