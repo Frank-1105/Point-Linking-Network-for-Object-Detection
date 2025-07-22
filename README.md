@@ -15,11 +15,11 @@
   - 因此验证代码需要读取`448*448`尺度下的gt，才能正常计算metric
 ### PLNnet.py
 - 以 InceptionV2 为 Backbone，详细框架与论文完全一致,如下图。
- ![](imgs/img1.png )
+ ![](img1.png )
 - 需要下载预训练模型权重，并替换地址以加载预训练模型。<br>
 ### PLNLoss.py
 - 构建损失函数，如下图所示.代码支持返回训练组合损失。
-![](imgs/img2.png )
+![](img2.png )
 ### PLNdata.py
 - 根据标注生成训练所需数据，原理自己看论文。
 ### draw_gts.py
@@ -39,9 +39,9 @@
 - 尤其是train val predict 里面接口有点乱
 ## demos
 - 定性分析 见下图
-![](imgs/img3.png )
+![](img3.png )
 - 定量指标 见下表
-![](imgs/img4.png )
+![](img4.png )
 ## conclusion
 - 这里指标还是不够高，可能的改进方向（个人认为由高到低）
   - 数据增强
