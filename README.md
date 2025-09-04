@@ -1,7 +1,7 @@
 # Point Linking Network for Object Detection 复现代码
 ## [论文链接](https://arxiv.org/abs/1706.03646) & [reference code](https://github.com/Shallow-W/PointLN)
-- 有疑问欢迎联系 703904898@qq.com
-- if any question, welcome to contact 703904898@qq.com
+- 有疑问欢迎联系 zhiqianzheng@hust.edu.cn
+- if any question, welcome to contact zhiqianzheng@hust.edu.cn
 ## 一些说明和注释
 ### 关于数据
 - 用的 PASCAL VOC 2007
@@ -44,4 +44,5 @@
   - 验证代码那里 for 循环然后 NMS 检索太慢了 要并行化处理
 
 # IF useful，PLZ give a STAR！
+
 
